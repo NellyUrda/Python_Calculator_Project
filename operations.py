@@ -1,6 +1,3 @@
-import tkinter.messagebox
-
-
 class Operacions:
     nr1 = nr2 = 0
 
