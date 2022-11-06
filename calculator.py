@@ -43,7 +43,7 @@ def operacion():
         tkinter.messagebox.showinfo(message="Enter a number!!!")
 
 
-# GUI for calculator page
+# GUI for calculator window
 calculator_window = Tk()
 
 calculator_window.geometry("480x480")
